@@ -1,4 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/blazing-customs/blazing-customs.r-universe.dev
 	branch = HEAD
+[submodule "factorweave"]
+	path = factorweave
+	url = https://github.com/Blazing-Customs/factorweave-tools
+	branch = main
+	subdir = r
